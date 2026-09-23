@@ -1,7 +1,7 @@
 # Blender v3.6.23 OBJ File: ''
 # www.blender.org
 mtllib rx-7bb.mtl
-o rx7body_14_T.001
+o rx7body
 v -0.693013 -0.294017 -1.792125
 v -0.669783 -0.317623 -1.708315
 v -0.675952 -0.336133 -1.563925
